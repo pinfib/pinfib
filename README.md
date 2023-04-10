@@ -1,4 +1,5 @@
-### Hi, I'm Julia! 👋
+### Hi, I'm Julia! 👋 
+I fullstack developer.
 
 ### 👀 Someday this will be my portfolio project
 - [Tour Of Heroes](https://github.com/pinfib/TourOfHeroes)
