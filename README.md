@@ -1,4 +1,4 @@
-### Hi, I'm Julia! 👋 
+<!--### Hi, I'm Julia! 👋 
 I'm fullstack developer C#.
 
 ### 👀 Someday this will be my portfolio project
@@ -7,7 +7,7 @@ I'm fullstack developer C#.
 ### 🎓 My training repositories 
 I created these projects when I was a student a IT courses: [C# basics](https://github.com/pinfib/AcademItsProgrammingFundamentals), [C# OOP](https://github.com/pinfib/AcademItsDorosh/tree/master/SharpOop1), [Web dev basics](https://github.com/pinfib/AcademItsClientSideWeb/tree/master/ClientSideWebOct20)
 
-<!--
+
 **pinfib/pinfib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
